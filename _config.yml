@@ -1,0 +1,28 @@
+name: LMARIE
+favicon: null
+layout_spectrum: 0.44388332264497876
+typography_spectrum: 0.37315431935712695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.08309051604010165
+  lightness: 0.1091032731346786
+  saturation: 0.10202458663843572
+  rhythmicContrast: 0.45538014848716557
+purpose: []
